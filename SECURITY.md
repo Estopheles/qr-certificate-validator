@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it by emailing [your-email@domain.com].
+If you discover a security vulnerability, please report it by emailing estopheles@proton.me.
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
