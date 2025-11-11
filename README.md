@@ -303,7 +303,6 @@ Promedio de QR por PDF: 1.00
 *Ejemplo de reporte Excel generado (datos ficticios para demostración)*
 
 ![](/home/christhianrodriguez/.var/app/com.github.marktext.marktext/config/marktext/images/2025-11-10-18-39-57-image.png)
-
 ### Datos Extraídos
 
 - ✅ **Información del estudiante** (nombre, CURP)
