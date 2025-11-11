@@ -1,0 +1,25 @@
+📋 INSTRUCCIONES PARA USAR TUS PDFs
+
+1. Copia tus archivos PDF aquí:
+   cp /ruta/a/tus/pdfs/*.pdf data/examples/sample_certificates/
+
+2. Ejecuta el procesamiento:
+   python -m qr_validator.main data/examples/sample_certificates/ build/reports/resultado.xlsx
+
+3. O usa el comando make:
+   make run-example
+
+4. Los resultados aparecerán en:
+   build/reports/
+
+📁 ESTRUCTURA RECOMENDADA:
+data/examples/sample_certificates/
+├── certificado_1.pdf
+├── certificado_2.pdf
+├── certificado_3.pdf
+└── más_certificados.pdf
+
+🔒 SEGURIDAD:
+- Solo se procesan archivos dentro del directorio del proyecto
+- Extensiones permitidas: .pdf, .xlsx, .csv, .json, .txt, .log
+- Tamaño máximo por archivo: 100MB

@@ -1,0 +1,36 @@
+# Core PDF processing
+PyMuPDF>=1.24.0
+pikepdf>=8.15.0
+Pillow>=10.2.0
+
+# QR code detection
+opencv-python>=4.9.0
+pyzbar>=0.1.9
+numpy>=1.24.0
+
+# Web scraping and validation
+selenium>=4.17.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+urllib3>=2.0.0
+
+# Data processing and output
+pandas>=2.2.0
+openpyxl>=3.1.2
+
+# Configuration and utilities
+python-dotenv>=1.0.0
+click>=8.1.7
+tqdm>=4.66.1
+
+# Security
+cryptography>=41.0.0
+
+# System monitoring
+psutil>=5.9.0
+
+# Development and testing
+pytest>=7.4.3
+black>=23.12.0
+flake8>=6.1.0
+mypy>=1.7.1
