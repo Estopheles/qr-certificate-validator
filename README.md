@@ -439,7 +439,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **Christhian Rodriguez**
 
-- GitHub: [@tu-usuario](https://github.com/Estopheles)
+- GitHub: https://github.com/Estopheles
 - LinkedIn: https://www.linkedin.com/in/christhianrodriguez/
 
 ## 🙏 Agradecimientos
