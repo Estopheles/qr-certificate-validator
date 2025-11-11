@@ -313,7 +313,7 @@ open htmlcov/index.html
 
 Para vulnerabilidades de seguridad, **NO** abras un issue público. En su lugar:
 
-1. Envía email a: security@proyecto.com
+1. Envía email a: estopheles@proton.me
 2. Incluye descripción detallada
 3. Proporciona pasos para reproducir
 4. Sugiere posible solución si la tienes
