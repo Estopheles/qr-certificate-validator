@@ -439,8 +439,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **Christhian Rodriguez**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu perfil](https://linkedin.com/in/tu-perfil)
+- GitHub: [@tu-usuario](https://github.com/Estopheles)
+- LinkedIn: https://www.linkedin.com/in/christhianrodriguez/
 
 ## 🙏 Agradecimientos
 
