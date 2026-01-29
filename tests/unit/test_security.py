@@ -47,7 +47,8 @@ class TestSecurityValidator:
         ]
         
         for url in valid_urls:
-            assert SecurityValidator.validate_url(url), f"URL válida rechazada: {url}"
+            result = SecurityValidator.validate_url(url)
+            assert result['valid'], f"URL válida rechazada: {url}"
         
         # URLs maliciosas
         malicious_urls = [
@@ -61,7 +62,8 @@ class TestSecurityValidator:
         ]
         
         for url in malicious_urls:
-            assert not SecurityValidator.validate_url(url), f"URL maliciosa no bloqueada: {url}"
+            result = SecurityValidator.validate_url(url)
+            assert not result['valid'], f"URL maliciosa no bloqueada: {url}"
     
     def test_filename_sanitization(self):
         """Test sanitización de nombres de archivo"""
